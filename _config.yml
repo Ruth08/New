@@ -1,4 +1,4 @@
-baseurl: "/ruth_template" # the subpath of your site, e.g. /blog
+baseurl: "/New" # the subpath of your site, e.g. /blog
 
 
 markdown: kramdown
